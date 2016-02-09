@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\KarolosTest\KarolosTest\bin\Debug\KarolosTest.exe
+C:\Users\User\Desktop\KarolosTest\KarolosTest\bin\Debug\KarolosTest.pdb
+C:\Users\User\Desktop\KarolosTest\KarolosTest\obj\x86\Debug\KarolosTest.Form1.resources
+C:\Users\User\Desktop\KarolosTest\KarolosTest\obj\x86\Debug\KarolosTest.Properties.Resources.resources
+C:\Users\User\Desktop\KarolosTest\KarolosTest\obj\x86\Debug\KarolosTest.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KarolosTest\KarolosTest\obj\x86\Debug\KarolosTest.exe
+C:\Users\User\Desktop\KarolosTest\KarolosTest\obj\x86\Debug\KarolosTest.pdb
